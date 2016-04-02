@@ -5,6 +5,8 @@ hello pearl hacks 2016
 
 one
 
+This is an example project for pearl hacks 2016
+
 ##h2
 
 ## description
